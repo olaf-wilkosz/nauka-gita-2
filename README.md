@@ -37,3 +37,14 @@ Praesent nec purus quis turpis facilisis iaculis vel sed dolor. Class aptent tac
 1. Lorem
    - Lorem
    - Lorem
+
+``` js
+var js = 1;
+function aaa(){
+  return true;
+};
+```
+
+``` html
+<a href="#" class="some-link">Lorem ipsum</a>
+```
